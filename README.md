@@ -1,2 +1,0 @@
-# PhotoJuice
-Privacy Policy
