@@ -36,5 +36,8 @@ Publisher
 DATATIDE GmbH
 Heinrich‑Hertz‑Str. 7
 90552 Röthenbach
-Email: info@datatide.de
+Email: privacy@juiceit-studios.com
 ---
+
+
+
